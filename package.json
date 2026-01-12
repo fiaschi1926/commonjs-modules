@@ -16,6 +16,7 @@
   "main": "people.js",
   "scripts": {
     "start": "node ./people.js",
+    "watch": "node --watch ./people.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
