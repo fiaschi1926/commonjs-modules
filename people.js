@@ -1,6 +1,8 @@
 import names from './names.js';
 import hobbies from './hobbies.js';
 
+import axios from 'axios';
+
 const nameHobbies = () => {
 
     let n = names.getName('Federico', 'Fiaschi');

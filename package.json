@@ -1,0 +1,24 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fiaschi1926/commonjs-modules#readme",
+  "bugs": {
+    "url": "https://github.com/fiaschi1926/commonjs-modules/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiaschi1926/commonjs-modules.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "people.js",
+  "scripts": {
+    "start": "node ./people.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
