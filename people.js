@@ -1,5 +1,5 @@
-import * as names from './names.js';
-import * as hobbies from './hobbies.js';
+import names from './names.js';
+import hobbies from './hobbies.js';
 
 const nameHobbies = () => {
 

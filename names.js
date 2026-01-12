@@ -7,4 +7,4 @@ const getName = (firstName, lastName) => {
     };
 }
 
-export { getName };
+export default { getName };

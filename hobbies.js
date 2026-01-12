@@ -8,4 +8,4 @@ const getHobbies = (hobby_1, hobby_2, hobby_3) => {
     ];
 }
 
-export { getHobbies };
+export default { getHobbies };
