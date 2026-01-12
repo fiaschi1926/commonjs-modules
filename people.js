@@ -3,8 +3,8 @@ import * as hobbies from './hobbies.js';
 
 const nameHobbies = () => {
 
-    let n = names.getName('John', 'Doe');
-    let h = hobbies.getHobbies('Reading', 'Hiking', 'Coding');
+    let n = names.getName('Federico', 'Fiaschi');
+    let h = hobbies.getHobbies('Reading', 'Writing', 'Coding');
 
     let hobbiesList = h.join(', ');
 
@@ -15,5 +15,4 @@ const nameHobbies = () => {
 
 };
 
-let a = nameHobbies();
-console.log(a);
+console.log(nameHobbies());
